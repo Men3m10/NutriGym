@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "nutrigym-36b3a",
+  "private_key_id": "ef59650f1447cb01eb8dbc4a3b07ffeade24a21a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCYx4Xk9LPdzwlV\n5WQDxopd0wHSQhpzaAbOJtDaDcHSjlcgv7Mwj38BfQu/+qUa4kIgmm+cikxZ/cVR\nU1LvjVYJU7wEB7XVDKRQx5qs7RaGtTU7/KJwgbnxw/y9vxdKSk6+LcnrxSDsXIl+\nmZ7gxS6O9wsoWlqoQoVo02F/KQB4ybwOGRzbsAWTPxUxC3q2pFzHMxP0MKo3KfDm\nBnidNWDL2/CNFSpl6JvujSqf3lXufVy5E40tNLhI5WispEYcErD/WuOEKvZmN/u5\n9xCE3NW6Y3YB3MddGychPDzX6KAhHMc6KkCDj16gUlTQtc+GT+0HLDPYwYdGLbXh\nFrPtD02rAgMBAAECggEAKnYlrf0esnKUxyVCl1QKZ8o58tyBanrKjWg3WqtBJ8p8\nx7LP1BrFsz20Us6QLbkdpN8XTxwW3VoNCa3NWpvfAieeFUapUEW7s2HOiOo5/QWG\n/p2X7gn4CowshfYCvJiLawrh2F/I5zhO1HtQr2rOJljd5oC6OpKGbpx1N/jG00rc\nFcX+ePAAqyz650cB5vfFICtr5fwC5R1o+lQMJr9J3HN4IiP22nO1g3THZXCQf9xl\nVmPeV0ChKzq/mzWlCBQgZeqfoq5rDFnPvEiMaTJwhx/qD6104p8cQWW3tpAnTaLo\nhuNrUqquorypknFuuf3rpdXln9Avo81ewDWmk53uTQKBgQDRoMHaN/+eudr1hHsC\n/Pakm7P/E8hHo9GffbEGFVuPq/mV9HBiGDaAGD2Hb/9cPWQ1QBFN7X/dJgLvnvxs\n0QHE6rJbtzj3YDQeO8cf9M5hJXrBIIYd8nSys5S5SBZcYXifVNkErANfsf7/ePNY\nnOqL+AtpDzVBLPkv0FoHXrOJpQKBgQC6k22W/zTzUuKbtBlSuf/annFB/JFUBSYg\nki5wUecP3IzixzEMfcFJ0J1j7G4Nrb2bGqDZ/WO9fWJfjwMNunKaWg9wQvnprXcX\nfQt6nnNbtDIXO+ZkRCW3E2b5FzEAohaSuorgVJPluZS3/AgE3ZhRjZlY4n9trwyy\n5+jNSSq5DwKBgFAVdxlz3T75R9IV+5ynoV4/caNYHmJoDjQ9I3zsed9IVwBXsvt2\nvpNvL0pnmgnWFktVn4bC3d9RnzuF5G955ZAiDWOGesfew+ps8eSedJ2eYOgZEcOt\nFbITcxTZmllOj3NnScVEJcHQUVeuEGFhCSXR7CIFwlWU5dnDYjGAl1xVAoGACWf1\nVm93U+0Rz5e8zxbhdzwVqaX6DapUyb+U58S5SWttDuHL7z1HyVjjFm6M/dOMg41M\nHrFPnfX8R6UGGmMT9AQmUxqNTuKX5m8/bOcgGbdz7wfuDZAB9sDbqCMrLUT+rlcJ\nOVYKPsKkZMIoBVbGnxXsbTa+BeGVWk+mxPKzXLECgYA3SO4ruVkn7ceCXnHPtnMj\ny5f3hvTPDUs1W542NYk++g9GcFUXSBK1cOnTF1/0cqP4n6gLaBst8gaP0proqb+k\nWCKTUU66EdXYsZGbYsgwEq8pcYEJOLfElZE4ygl3344YkmwgWRrHb0ttiWhAcW3i\nmzEOzeIjw6w9YgmkP4ZKBg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-4lpcj@nutrigym-36b3a.iam.gserviceaccount.com",
+  "client_id": "102291133142085888745",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-4lpcj%40nutrigym-36b3a.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
